@@ -1,0 +1,611 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text",
+      "version": 246,
+      "versionNonce": 849355092,
+      "isDeleted": false,
+      "id": "-1VXPW1r0e1i6uCMV6_Xp",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 511.6665625176214,
+      "y": -156.6388281352792,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 481.1333312988281,
+      "height": 48,
+      "seed": 1045215694,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1685709303130,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "How to arrive at Dynamic Programming solutions?\nApproaching dynamic programming problems",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "How to arrive at Dynamic Programming solutions?\nApproaching dynamic programming problems",
+      "lineHeight": 1.2,
+      "baseline": 41
+    },
+    {
+      "type": "rectangle",
+      "version": 477,
+      "versionNonce": 948237164,
+      "isDeleted": false,
+      "id": "zjCDnUllsgP5f2SnpfQuH",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 459,
+      "y": -49,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 552,
+      "height": 490,
+      "seed": 1955132110,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "CsdX6ykBqTDtJ_AfMbqJe"
+        },
+        {
+          "id": "-Cxmxqkqgz55U36QDxTvp",
+          "type": "arrow"
+        },
+        {
+          "id": "UD44XbkxcQrgSKTpZjwfx",
+          "type": "arrow"
+        },
+        {
+          "id": "RpV17XRoNYXqO2GozkW4x",
+          "type": "arrow"
+        },
+        {
+          "id": "QUPepPBqRRD_zC5XBnIwb",
+          "type": "arrow"
+        },
+        {
+          "id": "UcKWP160qHq3dqrBCpIcF",
+          "type": "arrow"
+        },
+        {
+          "id": "XW-P6Fy_SgmtcFiVwQTop",
+          "type": "arrow"
+        },
+        {
+          "id": "Y0njr8CeYZlCcgkOYiB7B",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685709275586,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 1573,
+      "versionNonce": 953642860,
+      "isDeleted": false,
+      "id": "CsdX6ykBqTDtJ_AfMbqJe",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 466.7583312988281,
+      "y": -41.5,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 536.4833374023438,
+      "height": 475,
+      "seed": 96670418,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1685709330755,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Steps involved:\n- Mathematical Representation of the problem\n- What are we constructing as a solution?\n- What will be the starting point of the solution that\nwe are constructing\n- Once we start constructing the solution at some \npoint, what choices do we have to expand/go towards\ncreating the construction\n- What are we calculating as the answer?\n- What we are constructing is not the same\nas what answer we are computing\n- Decide the states required with the help of\nattributes required for making valid transitions from \none point to the other\n- What is the cost function?\n- Recursive Top-Down function as a starting point\n- Considering all the possible choices, and computing \nthe answer\n- DP choices create a DAG",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "zjCDnUllsgP5f2SnpfQuH",
+      "originalText": "Steps involved:\n- Mathematical Representation of the problem\n- What are we constructing as a solution?\n- What will be the starting point of the solution that we are constructing\n- Once we start constructing the solution at some point, what choices do we have to expand/go towards creating the construction\n- What are we calculating as the answer?\n- What we are constructing is not the same\nas what answer we are computing\n- Decide the states required with the help of\nattributes required for making valid transitions from one point to the other\n- What is the cost function?\n- Recursive Top-Down function as a starting point\n- Considering all the possible choices, and computing the answer\n- DP choices create a DAG",
+      "lineHeight": 1.25,
+      "baseline": 468
+    },
+    {
+      "type": "arrow",
+      "version": 1631,
+      "versionNonce": 419761618,
+      "isDeleted": false,
+      "id": "-Cxmxqkqgz55U36QDxTvp",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1012.0171673819743,
+      "y": 180.8344974336498,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 293.1455748034198,
+      "height": 314.85908986095814,
+      "seed": 743763790,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1679320341465,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "zjCDnUllsgP5f2SnpfQuH",
+        "gap": 1.0171673819742495,
+        "focus": 0.5428981477328788
+      },
+      "endBinding": {
+        "elementId": "g-YbHKJjut4iLorx-kenF",
+        "gap": 18.453926515777685,
+        "focus": 0.7876710682105083
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          293.1455748034198,
+          -314.85908986095814
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 451,
+      "versionNonce": 1554197650,
+      "isDeleted": false,
+      "id": "UD44XbkxcQrgSKTpZjwfx",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1012.0171673819742,
+      "y": 198.37015976504364,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 235.98283261802578,
+      "height": 168.37015976504364,
+      "seed": 1066989326,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1679320267941,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "zjCDnUllsgP5f2SnpfQuH",
+        "gap": 1.0171673819742495,
+        "focus": 0.4793898187439856
+      },
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          235.98283261802578,
+          -168.37015976504364
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 450,
+      "versionNonce": 333520270,
+      "isDeleted": false,
+      "id": "RpV17XRoNYXqO2GozkW4x",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1015.9562912710091,
+      "y": 223.85911666469053,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 258.04370872899085,
+      "height": 112.85911666469053,
+      "seed": 923916370,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1679320267941,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "zjCDnUllsgP5f2SnpfQuH",
+        "gap": 4.956291271009205,
+        "focus": 0.44376239042682786
+      },
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          258.04370872899085,
+          -112.85911666469053
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 472,
+      "versionNonce": 1819527762,
+      "isDeleted": false,
+      "id": "QUPepPBqRRD_zC5XBnIwb",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1013.9737747626056,
+      "y": 248.03298027325962,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 250.02622523739444,
+      "height": 51.032980273259625,
+      "seed": 1387694034,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1679320267941,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "zjCDnUllsgP5f2SnpfQuH",
+        "gap": 2.9737747626055215,
+        "focus": 0.3987749799770501
+      },
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          250.02622523739444,
+          -51.032980273259625
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 364,
+      "versionNonce": 291869198,
+      "isDeleted": false,
+      "id": "Y0njr8CeYZlCcgkOYiB7B",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1013.6096530000668,
+      "y": 291.97342620862594,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 254.0406517822912,
+      "height": 14.003563436143452,
+      "seed": 820475218,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1679320267941,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "zjCDnUllsgP5f2SnpfQuH",
+        "focus": 0.47313510618342386,
+        "gap": 2.609653000066828
+      },
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          254.0406517822912,
+          -14.003563436143452
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 490,
+      "versionNonce": 490879950,
+      "isDeleted": false,
+      "id": "UcKWP160qHq3dqrBCpIcF",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1015.6271364916629,
+      "y": 330.22550894052,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 258.02316829069514,
+      "height": 12.744353831962485,
+      "seed": 1265811662,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1679320267941,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "zjCDnUllsgP5f2SnpfQuH",
+        "focus": 0.5121634702183161,
+        "gap": 4.627136491662895
+      },
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          258.02316829069514,
+          12.744353831962485
+        ]
+      ]
+    },
+    {
+      "type": "arrow",
+      "version": 609,
+      "versionNonce": 2078978066,
+      "isDeleted": false,
+      "id": "XW-P6Fy_SgmtcFiVwQTop",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1012,
+      "y": 407.6611498176311,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 248.65030478235803,
+      "height": 76.30871295485139,
+      "seed": 1789983506,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1679320267941,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "zjCDnUllsgP5f2SnpfQuH",
+        "focus": 0.4185616067946207,
+        "gap": 1
+      },
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          248.65030478235803,
+          76.30871295485139
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 614,
+      "versionNonce": 1450743892,
+      "isDeleted": false,
+      "id": "g-YbHKJjut4iLorx-kenF",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1323.6166687011719,
+      "y": -194,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 262.76666259765625,
+      "height": 96,
+      "seed": 1469963922,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "-Cxmxqkqgz55U36QDxTvp",
+          "type": "arrow"
+        },
+        {
+          "id": "oOp3A_zGlO0HVDamSzSwo",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685709264726,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Each point is explained\nwith 3 different examples \nof DP problems\nwith justification ",
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Each point is explained\nwith 3 different examples \nof DP problems\nwith justification ",
+      "lineHeight": 1.2,
+      "baseline": 89
+    },
+    {
+      "type": "arrow",
+      "version": 517,
+      "versionNonce": 353754386,
+      "isDeleted": false,
+      "id": "oOp3A_zGlO0HVDamSzSwo",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1594,
+      "y": -157.2831427820821,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 177.00000000000023,
+      "height": 0.75529178020264,
+      "seed": 974010446,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1679381772504,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "g-YbHKJjut4iLorx-kenF",
+        "focus": -0.23035959923495675,
+        "gap": 7.616668701171875
+      },
+      "endBinding": {
+        "elementId": "kzK6Kr8Rf4D7tGJL02Kos",
+        "focus": -0.3011614674735339,
+        "gap": 10.050003051757812
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          177.00000000000023,
+          0.75529178020264
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "version": 341,
+      "versionNonce": 1564133100,
+      "isDeleted": false,
+      "id": "kzK6Kr8Rf4D7tGJL02Kos",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1781.0500030517578,
+      "y": -281,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 265.8999938964844,
+      "height": 192,
+      "seed": 1231871054,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [
+        {
+          "id": "oOp3A_zGlO0HVDamSzSwo",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685709264727,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Problems:\n- Related to subsequences\n -> LIS/LCS\n- Knapsack\n -> Coin change/ partitions\n- Longest increasing path\nin matrix\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Problems:\n- Related to subsequences\n -> LIS/LCS\n- Knapsack\n -> Coin change/ partitions\n- Longest increasing path\nin matrix\n",
+      "lineHeight": 1.2,
+      "baseline": 185
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

@@ -1,0 +1,1928 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "RRxiTbJCN9tQxv0KsUKza",
+      "type": "rectangle",
+      "x": 762.0703073203975,
+      "y": 204.42979938950134,
+      "width": 306,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 663860320,
+      "version": 44,
+      "versionNonce": 2051501472,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "0AwzQrKKU0L0gTZ29__Cd",
+          "type": "arrow"
+        },
+        {
+          "id": "E9u_lTkJZFRWxKYGIotUc",
+          "type": "arrow"
+        },
+        {
+          "id": "KrrIPyUnqtm-SiwpqANIS",
+          "type": "text"
+        }
+      ],
+      "updated": 1685695546884,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "KrrIPyUnqtm-SiwpqANIS",
+      "type": "text",
+      "x": 788.692255562585,
+      "y": 209.42979938950134,
+      "width": 252.756103515625,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1204411488,
+      "version": 200,
+      "versionNonce": 405143648,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685695557923,
+      "link": null,
+      "locked": false,
+      "text": "Digit Dynamic \nProgramming",
+      "fontSize": 36,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 77,
+      "containerId": "RRxiTbJCN9tQxv0KsUKza",
+      "originalText": "Digit Dynamic Programming",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "0AwzQrKKU0L0gTZ29__Cd",
+      "type": "arrow",
+      "x": 850.8804380024415,
+      "y": 304.63086844837164,
+      "width": 85.27177899699632,
+      "height": 95.97767985452731,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 241196128,
+      "version": 526,
+      "versionNonce": 1828201888,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685695542455,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -85.27177899699632,
+          95.97767985452731
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "RRxiTbJCN9tQxv0KsUKza",
+        "gap": 12.201069058870338,
+        "focus": 0.07425195658565521
+      },
+      "endBinding": {
+        "elementId": "TVVgMnHpBZCXjxbWRPc6N",
+        "gap": 18.381602918206923,
+        "focus": -0.14400712115085695
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "TVVgMnHpBZCXjxbWRPc6N",
+      "type": "text",
+      "x": 595.673382595603,
+      "y": 418.99015122110586,
+      "width": 336.67962646484375,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 679787616,
+      "version": 186,
+      "versionNonce": 355525024,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "0AwzQrKKU0L0gTZ29__Cd",
+          "type": "arrow"
+        },
+        {
+          "id": "eoJom52t0XJe2GmxDnwR4",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685695017063,
+      "link": null,
+      "locked": false,
+      "text": "What kind of problems are solved?",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "What kind of problems are solved?",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "eoJom52t0XJe2GmxDnwR4",
+      "type": "arrow",
+      "x": 760.7512086468096,
+      "y": 446.766099743113,
+      "width": 41.056939044996284,
+      "height": 54.10736448265976,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1756318112,
+      "version": 909,
+      "versionNonce": 2063069600,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685708128133,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -41.056939044996284,
+          54.10736448265976
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "TVVgMnHpBZCXjxbWRPc6N",
+        "gap": 2.7759485220071145,
+        "focus": -0.045929114499491296
+      },
+      "endBinding": {
+        "elementId": "Awj2gcw0rRNp36ooOionk",
+        "gap": 7.4619262401107855,
+        "focus": -0.3749055616641481
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "Awj2gcw0rRNp36ooOionk",
+      "type": "rectangle",
+      "x": 536.0649852916607,
+      "y": 508.3353904658835,
+      "width": 448,
+      "height": 160,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2086378592,
+      "version": 189,
+      "versionNonce": 1437732960,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "eoJom52t0XJe2GmxDnwR4",
+          "type": "arrow"
+        },
+        {
+          "id": "f18gGRlcM1OJ6y-7WlvZT",
+          "type": "arrow"
+        },
+        {
+          "id": "8oytj0DZ8PTcw0BI7nTbv",
+          "type": "arrow"
+        },
+        {
+          "id": "EA_ljElaMdQoD_59Pl9mP",
+          "type": "arrow"
+        },
+        {
+          "id": "XOrRi-5JMc9rwN7bj8UPo",
+          "type": "text"
+        },
+        {
+          "id": "F41H8wryvumdrfgjR7b32",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685708128133,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "XOrRi-5JMc9rwN7bj8UPo",
+      "type": "text",
+      "x": 541.0649852916607,
+      "y": 513.3353904658835,
+      "width": 410.3795471191406,
+      "height": 150,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1008363616,
+      "version": 707,
+      "versionNonce": 784741792,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685708143227,
+      "link": null,
+      "locked": false,
+      "text": " - Counting numbers with a given condition\n  in given range [L, R]\n - Ranges can be arbitrarily large\n - even upto 10^100000\n\n        Sample problems below",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "baseline": 143,
+      "containerId": "Awj2gcw0rRNp36ooOionk",
+      "originalText": " - Counting numbers with a given condition\n  in given range [L, R]\n - Ranges can be arbitrarily large\n - even upto 10^100000\n\n        Sample problems below",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "F41H8wryvumdrfgjR7b32",
+      "type": "arrow",
+      "x": 672.617409008582,
+      "y": 670.3895253191487,
+      "width": 307.1851184859732,
+      "height": 147.24125684998103,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1381498272,
+      "version": 1212,
+      "versionNonce": 1730290080,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685708128134,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -307.1851184859732,
+          147.24125684998103
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Awj2gcw0rRNp36ooOionk",
+        "focus": -0.21340162027615728,
+        "gap": 2.054134853265168
+      },
+      "endBinding": {
+        "elementId": "q8KBL5imyCF54Y3_Cm3JD",
+        "focus": 0.039688793551851155,
+        "gap": 3.8268419343740447
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "f18gGRlcM1OJ6y-7WlvZT",
+      "type": "arrow",
+      "x": 707.4288552019232,
+      "y": 671.2737574860281,
+      "width": 118.93321744550872,
+      "height": 270.5883735883507,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1735434336,
+      "version": 1233,
+      "versionNonce": 1716043168,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685708128133,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          118.93321744550872,
+          270.5883735883507
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Awj2gcw0rRNp36ooOionk",
+        "focus": 0.34369109288122673,
+        "gap": 2.9383670201445966
+      },
+      "endBinding": {
+        "elementId": "qW2fHlTUh8E0NbSs9j66l",
+        "focus": 0.4741862467037319,
+        "gap": 1.7720565950098717
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "8oytj0DZ8PTcw0BI7nTbv",
+      "type": "arrow",
+      "x": 690.40571518934,
+      "y": 673.1449290055704,
+      "width": 199.02696396763054,
+      "height": 302.4707323848047,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 560470112,
+      "version": 1002,
+      "versionNonce": 1168116128,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685708128134,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -199.02696396763054,
+          302.4707323848047
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Awj2gcw0rRNp36ooOionk",
+        "focus": 0.05028052208541654,
+        "gap": 4.809538539686855
+      },
+      "endBinding": {
+        "elementId": "upiYRtrQD4mqNtsJlnfz5",
+        "focus": 0.23633238697420275,
+        "gap": 5.293884355830528
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "EA_ljElaMdQoD_59Pl9mP",
+      "type": "arrow",
+      "x": 720.613862637004,
+      "y": 669.3888734447364,
+      "width": 313.9672552656715,
+      "height": 160.34873049190128,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1258295712,
+      "version": 1217,
+      "versionNonce": 1412289952,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685708128134,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          313.9672552656715,
+          160.34873049190128
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Awj2gcw0rRNp36ooOionk",
+        "focus": 0.5200571410683189,
+        "gap": 1.0534829788529123
+      },
+      "endBinding": {
+        "elementId": "EnMpC3B3lM3jT4JNdnzIN",
+        "focus": 0.22263357719035834,
+        "gap": 3.953332348510571
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "q8KBL5imyCF54Y3_Cm3JD",
+      "type": "rectangle",
+      "x": 85.60544858823471,
+      "y": 803.4503408014144,
+      "width": 276,
+      "height": 153,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 43462752,
+      "version": 415,
+      "versionNonce": 1845954976,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "F41H8wryvumdrfgjR7b32",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "7FIC3DnBj3hhSTkmHAEOV"
+        }
+      ],
+      "updated": 1685695395779,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "7FIC3DnBj3hhSTkmHAEOV",
+      "type": "text",
+      "x": 101.74558530698471,
+      "y": 829.9503408014144,
+      "width": 243.7197265625,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1904178272,
+      "version": 365,
+      "versionNonce": 553640032,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685695395779,
+      "link": null,
+      "locked": false,
+      "text": "Count numbers in the \nrange [L, R] which have \nsum of digits = given \nnumber K",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 93,
+      "containerId": "q8KBL5imyCF54Y3_Cm3JD",
+      "originalText": "Count numbers in the range [L, R] which have sum of digits = given number K",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "rectangle",
+      "version": 449,
+      "versionNonce": 186188192,
+      "isDeleted": false,
+      "id": "qW2fHlTUh8E0NbSs9j66l",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 615.5975589441935,
+      "y": 943.6341876693887,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 316,
+      "height": 185,
+      "seed": 492719200,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "f18gGRlcM1OJ6y-7WlvZT",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "DPdzSuZwh0ThRAthRwhjX"
+        }
+      ],
+      "updated": 1685695598057,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "DPdzSuZwh0ThRAthRwhjX",
+      "type": "text",
+      "x": 629.2077274012247,
+      "y": 986.1341876693887,
+      "width": 288.7796630859375,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 468481120,
+      "version": 404,
+      "versionNonce": 891872672,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685695600153,
+      "link": null,
+      "locked": false,
+      "text": "Find sum of all numbers in \nrange [L, R] which have only \nthe digits 1, 2,and 3\n(easy version)",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 93,
+      "containerId": "qW2fHlTUh8E0NbSs9j66l",
+      "originalText": "Find sum of all numbers in range [L, R] which have only the digits 1, 2,and 3\n(easy version)",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "rectangle",
+      "version": 330,
+      "versionNonce": 769997216,
+      "isDeleted": false,
+      "id": "upiYRtrQD4mqNtsJlnfz5",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 263.2150857505417,
+      "y": 980.9095457462056,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 272,
+      "height": 139,
+      "seed": 79606880,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "8oytj0DZ8PTcw0BI7nTbv",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "azmKAK93013Qlfpb8TZ5P"
+        }
+      ],
+      "updated": 1685695395781,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "azmKAK93013Qlfpb8TZ5P",
+      "type": "text",
+      "x": 268.7052285728073,
+      "y": 1012.9095457462056,
+      "width": 261.01971435546875,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 920143264,
+      "version": 383,
+      "versionNonce": 2036117600,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685695395781,
+      "link": null,
+      "locked": false,
+      "text": "Count numbers in the \nrange [L, R] with atmost \nK distinct digits",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 68,
+      "containerId": "upiYRtrQD4mqNtsJlnfz5",
+      "originalText": "Count numbers in the range [L, R] with atmost K distinct digits",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "rectangle",
+      "version": 451,
+      "versionNonce": 64704928,
+      "isDeleted": false,
+      "id": "EnMpC3B3lM3jT4JNdnzIN",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 985.6612405765178,
+      "y": 833.6909362851483,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 323,
+      "height": 185,
+      "seed": 220535904,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "EA_ljElaMdQoD_59Pl9mP",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "nvuT_RP4xhpFjX1lM0Mvr"
+        }
+      ],
+      "updated": 1685695395781,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "nvuT_RP4xhpFjX1lM0Mvr",
+      "type": "text",
+      "x": 992.0014200198773,
+      "y": 876.1909362851483,
+      "width": 310.31964111328125,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 736240736,
+      "version": 453,
+      "versionNonce": 930355296,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685695395781,
+      "link": null,
+      "locked": false,
+      "text": "Count numbers in the range [L,\nR] having the digit D in it's \ndecimal representation exactly \nK times",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 93,
+      "containerId": "EnMpC3B3lM3jT4JNdnzIN",
+      "originalText": "Count numbers in the range [L, R] having the digit D in it's decimal representation exactly K times",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "E9u_lTkJZFRWxKYGIotUc",
+      "type": "arrow",
+      "x": 1074.6278691488478,
+      "y": 310.78314546795116,
+      "width": 338.1413557079511,
+      "height": 102.03271182916637,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1234024544,
+      "version": 480,
+      "versionNonce": 1756190816,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685704936575,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          338.1413557079511,
+          102.03271182916637
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "RRxiTbJCN9tQxv0KsUKza",
+        "gap": 9.130532488661359,
+        "focus": 0.08512789561051473
+      },
+      "endBinding": {
+        "elementId": "NKGnrojzun4AZrViKovDs",
+        "gap": 18.810376751412363,
+        "focus": 0.12791077119909572
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "NKGnrojzun4AZrViKovDs",
+      "type": "rectangle",
+      "x": 1341.4106022267351,
+      "y": 431.6262340485299,
+      "width": 419,
+      "height": 71,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1241291168,
+      "version": 197,
+      "versionNonce": 1541703776,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "jIlSzBs0p7Sxvf7DWqEvK",
+          "type": "text"
+        },
+        {
+          "id": "E9u_lTkJZFRWxKYGIotUc",
+          "type": "arrow"
+        },
+        {
+          "id": "hNdmRlEbFJFNZMjZLy7iI",
+          "type": "arrow"
+        },
+        {
+          "id": "7yrY3a_-8BovojXh_RmZW",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685704936406,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "jIlSzBs0p7Sxvf7DWqEvK",
+      "type": "text",
+      "x": 1346.5208317189226,
+      "y": 454.6262340485299,
+      "width": 408.779541015625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 625035680,
+      "version": 251,
+      "versionNonce": 684633504,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685704936406,
+      "link": null,
+      "locked": false,
+      "text": "Basic ideas for solving Digit DP problems",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "NKGnrojzun4AZrViKovDs",
+      "originalText": "Basic ideas for solving Digit DP problems",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "2SDu8gRITSeR-DFFCKH0U",
+      "type": "text",
+      "x": 1395.6961541097592,
+      "y": 706.4214543190593,
+      "width": 587.6197509765625,
+      "height": 1427.46819334007,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 372978080,
+      "version": 2593,
+      "versionNonce": 520164768,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "hNdmRlEbFJFNZMjZLy7iI",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685708876474,
+      "link": null,
+      "locked": false,
+      "text": "Treat the number as sequence of digits 0-9\n\ncounting numbers in [L, R] is same as \n    counting numbers in [1, R] -\n    counting numbers in [1, L - 1] \n\nTo count numbers in some prefix [1, N]\n  - Construct a sequence of digits from MSB to LSB\n  - let length of string representation of N is:\n    d1 d2 d3 .. dk\n  - now we construct a sequence of digits from left\n    to right such that the generated number is less\n    than equal to N\n    How can we ensure that?\n    - For 2 numbers \n       X: x1 x2 .. xk\n       Y: y1 y2 .. yk\n       X < Y if x[i] < y[i]\n        where i is the first position where x[i] != y[i]\n\n    Let N = 1 2 3 4 5 6 7 8 9 0\n             ^\n            this position can only\n            take values from { 0, 1 }\n            to ensure X < N\n    \n    Let X is our generated number until some point:\n\n    Let N = 1 2 3 4 5 6 7 8 9 0\n        X = 1 2 3 *\n                   * can be { 0, 1, 2, 3, 4 }\n           because a smaller digit has not been placed\n    But if\n    Let N = 1 2 3 4 5 6 7 8 9 0\n        X = 1  1 3 *\n                   * can be { 0, 1, 2, ... 9 }\n           because a smaller digit has been placed\n            at index = 1\n\n\n  - so our task is to generate a sequence X with the \n    following conditions based on above conclusions:\n    1. length is k\n    2. the first position where X[i] != d[i] should have\n        X[i] < d[i]\n    3. What digits are possible at any position i?\n       \n      ---> [0 to 9] is there is already a position j < i\n        where we have already taken a smaller digit\n        X[j] < d[j]\n        When such a j is already chosen, the generated \n        number is already < N, hence we can put all possible\n        digits at i-th position\n      ---> [0 to d[i]], if we haven't chosen any smaller\n        digit earlier.\n        This makes sure our generated number is less\n        equal to N\n       ",
+      "fontSize": 19.689216459863037,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 1420,
+      "containerId": null,
+      "originalText": "Treat the number as sequence of digits 0-9\n\ncounting numbers in [L, R] is same as \n    counting numbers in [1, R] -\n    counting numbers in [1, L - 1] \n\nTo count numbers in some prefix [1, N]\n  - Construct a sequence of digits from MSB to LSB\n  - let length of string representation of N is:\n    d1 d2 d3 .. dk\n  - now we construct a sequence of digits from left\n    to right such that the generated number is less\n    than equal to N\n    How can we ensure that?\n    - For 2 numbers \n       X: x1 x2 .. xk\n       Y: y1 y2 .. yk\n       X < Y if x[i] < y[i]\n        where i is the first position where x[i] != y[i]\n\n    Let N = 1 2 3 4 5 6 7 8 9 0\n             ^\n            this position can only\n            take values from { 0, 1 }\n            to ensure X < N\n    \n    Let X is our generated number until some point:\n\n    Let N = 1 2 3 4 5 6 7 8 9 0\n        X = 1 2 3 *\n                   * can be { 0, 1, 2, 3, 4 }\n           because a smaller digit has not been placed\n    But if\n    Let N = 1 2 3 4 5 6 7 8 9 0\n        X = 1  1 3 *\n                   * can be { 0, 1, 2, ... 9 }\n           because a smaller digit has been placed\n            at index = 1\n\n\n  - so our task is to generate a sequence X with the \n    following conditions based on above conclusions:\n    1. length is k\n    2. the first position where X[i] != d[i] should have\n        X[i] < d[i]\n    3. What digits are possible at any position i?\n       \n      ---> [0 to 9] is there is already a position j < i\n        where we have already taken a smaller digit\n        X[j] < d[j]\n        When such a j is already chosen, the generated \n        number is already < N, hence we can put all possible\n        digits at i-th position\n      ---> [0 to d[i]], if we haven't chosen any smaller\n        digit earlier.\n        This makes sure our generated number is less\n        equal to N\n       ",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "hNdmRlEbFJFNZMjZLy7iI",
+      "type": "arrow",
+      "x": 1567.3872749906254,
+      "y": 503.86822032275927,
+      "width": 24.930753141605237,
+      "height": 197.9919459486963,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2065030560,
+      "version": 5381,
+      "versionNonce": 1972199840,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685708876475,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          24.930753141605237,
+          197.9919459486963
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "NKGnrojzun4AZrViKovDs",
+        "focus": -0.05648008552720561,
+        "gap": 1.2419862742293617
+      },
+      "endBinding": {
+        "elementId": "2SDu8gRITSeR-DFFCKH0U",
+        "focus": -0.017570993108610967,
+        "gap": 4.561288047603625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "7yrY3a_-8BovojXh_RmZW",
+      "type": "arrow",
+      "x": 1764.877307580643,
+      "y": 490.25953190990947,
+      "width": 519.5470010452191,
+      "height": 189.6611613285305,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1176679520,
+      "version": 344,
+      "versionNonce": 1515889760,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685708896216,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          519.5470010452191,
+          189.6611613285305
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "NKGnrojzun4AZrViKovDs",
+        "gap": 4.466705353907905,
+        "focus": -0.48952140765850044
+      },
+      "endBinding": {
+        "elementId": "jWE3qDj_sieNhYhhuFUuG",
+        "gap": 3.897734855216222,
+        "focus": 0.1697668421766043
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "jWE3qDj_sieNhYhhuFUuG",
+      "type": "rectangle",
+      "x": 2170.8733595699423,
+      "y": 683.8184280936562,
+      "width": 296,
+      "height": 44,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 235696224,
+      "version": 8,
+      "versionNonce": 156783008,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "7yrY3a_-8BovojXh_RmZW",
+          "type": "arrow"
+        },
+        {
+          "id": "7SvR7xEAfc36l5HGHfhqZ",
+          "type": "text"
+        }
+      ],
+      "updated": 1685708896216,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "7SvR7xEAfc36l5HGHfhqZ",
+      "type": "text",
+      "x": 2176.2935255855673,
+      "y": 693.3184280936562,
+      "width": 285.15966796875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1241143392,
+      "version": 124,
+      "versionNonce": 340203616,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685708896216,
+      "link": null,
+      "locked": false,
+      "text": "Recurrence relation/ function",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "jWE3qDj_sieNhYhhuFUuG",
+      "originalText": "Recurrence relation/ function",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "BX7bE47okPNdejF_Tr0h7",
+      "type": "text",
+      "x": 2138.2172112552626,
+      "y": 752.5307622982233,
+      "width": 559.939453125,
+      "height": 1125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1893043296,
+      "version": 1738,
+      "versionNonce": 1222794656,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "IpvlYRnuT_E0EpltrfuWb",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685709037740,
+      "link": null,
+      "locked": false,
+      "text": "Let's take a sample problem as below:\n\nCount numbers in the range [L, R] for which \n    sum of digits = given number K\n\nlet solve(N) = count of numbers in [1, N]\nthen final answer will be = solve(R) - solve(L - 1)\n\nLet's see how to implement solve(N) now:\n\nsolve(N):\n- convert N to string form\n- let D = number of digits in N\n- Now we start constructing the sequence from\n    left to right at index = 0\n- We create a recursive function for that\n    \n    go(id, small_taken, sum_of_digits)\n    \nwhere \n    id: index of our constructed sequence\n    small_taken: boolean denoting whether we have\n        taken a smaller digit, useful to know what\n        digits can be inserted at any position `id`\n    sum_of_digits: the number that we are generating\n        has some digit-sum which needs to be maintained\n        so that it is validated once the entire number\n        is generated at id = D\n\n        This condition is provided in the problem..\n        Hence we need to check (hence store sum of \n        digits in the state) equals to K (given)\n\n    This function returns the count of numbers <= N\n    starting from index = `id` and `sum_of_digits` as\n    the sum of digits in it \n\n    Hence, the answer to our original sub-problem will\nnow be go(0, false, 0)\n    \n(0, false, 0) means \n  - we are generating digits one by one from `index` = 0\n  - `small_taken` = false since this is the first digit\n  - `sum_of_digits` = 0 initially\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 1118,
+      "containerId": null,
+      "originalText": "Let's take a sample problem as below:\n\nCount numbers in the range [L, R] for which \n    sum of digits = given number K\n\nlet solve(N) = count of numbers in [1, N]\nthen final answer will be = solve(R) - solve(L - 1)\n\nLet's see how to implement solve(N) now:\n\nsolve(N):\n- convert N to string form\n- let D = number of digits in N\n- Now we start constructing the sequence from\n    left to right at index = 0\n- We create a recursive function for that\n    \n    go(id, small_taken, sum_of_digits)\n    \nwhere \n    id: index of our constructed sequence\n    small_taken: boolean denoting whether we have\n        taken a smaller digit, useful to know what\n        digits can be inserted at any position `id`\n    sum_of_digits: the number that we are generating\n        has some digit-sum which needs to be maintained\n        so that it is validated once the entire number\n        is generated at id = D\n\n        This condition is provided in the problem..\n        Hence we need to check (hence store sum of \n        digits in the state) equals to K (given)\n\n    This function returns the count of numbers <= N\n    starting from index = `id` and `sum_of_digits` as\n    the sum of digits in it \n\n    Hence, the answer to our original sub-problem will\nnow be go(0, false, 0)\n    \n(0, false, 0) means \n  - we are generating digits one by one from `index` = 0\n  - `small_taken` = false since this is the first digit\n  - `sum_of_digits` = 0 initially\n",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "IpvlYRnuT_E0EpltrfuWb",
+      "type": "arrow",
+      "x": 2699.1566643802626,
+      "y": 1456.9975265684732,
+      "width": 331.0705890982922,
+      "height": 148.91184562728608,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 821704096,
+      "version": 1574,
+      "versionNonce": 1678092704,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "eGuEUoLgy4GG5ANYe-6h9"
+        }
+      ],
+      "updated": 1685709037741,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          331.0705890982922,
+          -148.91184562728608
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "BX7bE47okPNdejF_Tr0h7",
+        "focus": 0.38597772482701564,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "ys7uc9j3U6nv2fMntsf7u",
+        "focus": -0.22032885589226348,
+        "gap": 8.02977862377702
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "eGuEUoLgy4GG5ANYe-6h9",
+      "type": "text",
+      "x": 2333.9997221555177,
+      "y": 1953.8064049122922,
+      "width": 136.77984619140625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1200575904,
+      "version": 19,
+      "versionNonce": 366110816,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685706700833,
+      "link": null,
+      "locked": false,
+      "text": "implementation",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "IpvlYRnuT_E0EpltrfuWb",
+      "originalText": "implementation",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "ys7uc9j3U6nv2fMntsf7u",
+      "type": "text",
+      "x": 3038.257032102332,
+      "y": 855.7828418360803,
+      "width": 621.09375,
+      "height": 456,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1227239520,
+      "version": 794,
+      "versionNonce": 921169312,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "IpvlYRnuT_E0EpltrfuWb",
+          "type": "arrow"
+        },
+        {
+          "id": "y1hbw0_cIfG0MPozof0ra",
+          "type": "arrow"
+        },
+        {
+          "id": "sZJnQL-cCRSbg_-nAnoh3",
+          "type": "arrow"
+        },
+        {
+          "id": "-2SVTmWCREGxQnjYGdYun",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685707178550,
+      "link": null,
+      "locked": false,
+      "text": "int go(int id, bool small_taken, int sum_of_digits) {\n  if (id == S.size())\n    return sum_of_digits == K ? 1 : 0;\n\n  int ans = 0;\n  // TODO: add memoization\n\n  int lo = 0;\n  int hi = (small_taken ? 9 : S[id] - '0');\n\n  for (int digit = lo; digit <= hi; digit++) {\n    ans += go(\n      id + 1,\n      small_taken || (digit < S[id] - '0'),\n      sum_of_digits + digit\n    );\n  }\n  return ans;\n}",
+      "fontSize": 20,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 451,
+      "containerId": null,
+      "originalText": "int go(int id, bool small_taken, int sum_of_digits) {\n  if (id == S.size())\n    return sum_of_digits == K ? 1 : 0;\n\n  int ans = 0;\n  // TODO: add memoization\n\n  int lo = 0;\n  int hi = (small_taken ? 9 : S[id] - '0');\n\n  for (int digit = lo; digit <= hi; digit++) {\n    ans += go(\n      id + 1,\n      small_taken || (digit < S[id] - '0'),\n      sum_of_digits + digit\n    );\n  }\n  return ans;\n}",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "y1hbw0_cIfG0MPozof0ra",
+      "type": "arrow",
+      "x": 3520.0022395094697,
+      "y": 848.8263077015603,
+      "width": 4.480650403011623,
+      "height": 111.80897057427342,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 85529696,
+      "version": 682,
+      "versionNonce": 180422048,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685707178556,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4.480650403011623,
+          -111.80897057427342
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "ys7uc9j3U6nv2fMntsf7u",
+        "focus": 0.5060708599191849,
+        "gap": 6.956534134519984
+      },
+      "endBinding": {
+        "elementId": "cRzWoGAVTKkllSaEKNUCn",
+        "focus": 0.2091192890033148,
+        "gap": 8.233838840767476
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "sZJnQL-cCRSbg_-nAnoh3",
+      "type": "arrow",
+      "x": 3168.5126686414196,
+      "y": 853.4850148088218,
+      "width": 36.10047219508033,
+      "height": 137.43185966421117,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1186407520,
+      "version": 708,
+      "versionNonce": 1137660320,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685707178558,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          36.10047219508033,
+          -137.43185966421117
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "ys7uc9j3U6nv2fMntsf7u",
+        "focus": -0.6500031045216451,
+        "gap": 2.2978270272584496
+      },
+      "endBinding": {
+        "elementId": "BEdeCOWm_sXW_ZE9WWQ4R",
+        "focus": 0.3404948039977709,
+        "gap": 7.610949750829832
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "-2SVTmWCREGxQnjYGdYun",
+      "type": "arrow",
+      "x": 3322.3349658430393,
+      "y": 854.6496915856371,
+      "width": 67.37067716610636,
+      "height": 144.41992032510325,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 322627680,
+      "version": 699,
+      "versionNonce": 1563696544,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685707178560,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -67.37067716610636,
+          -144.41992032510325
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "ys7uc9j3U6nv2fMntsf7u",
+        "focus": 0.19289614497810056,
+        "gap": 1.1331502504431228
+      },
+      "endBinding": {
+        "elementId": "BEdeCOWm_sXW_ZE9WWQ4R",
+        "focus": -0.15938204176545948,
+        "gap": 1.7875658667530843
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "BEdeCOWm_sXW_ZE9WWQ4R",
+      "type": "text",
+      "x": 3163.0481172154814,
+      "y": 683.4422053937808,
+      "width": 145.4598388671875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1288687008,
+      "version": 155,
+      "versionNonce": 1190550624,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "sZJnQL-cCRSbg_-nAnoh3",
+          "type": "arrow"
+        },
+        {
+          "id": "-2SVTmWCREGxQnjYGdYun",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685707027344,
+      "link": null,
+      "locked": false,
+      "text": "common states",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "common states",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "cRzWoGAVTKkllSaEKNUCn",
+      "type": "text",
+      "x": 3464.699402410656,
+      "y": 678.7834982865194,
+      "width": 155.07980346679688,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1654694304,
+      "version": 85,
+      "versionNonce": 926036384,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "y1hbw0_cIfG0MPozof0ra",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685707032264,
+      "link": null,
+      "locked": false,
+      "text": "variable states\n(could be more)",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 43,
+      "containerId": null,
+      "originalText": "variable states\n(could be more)",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "JUH0j1MGKZyh4fTPJz-gV",
+      "type": "arrow",
+      "x": 3333.0909266305216,
+      "y": 1045.6566829833544,
+      "width": 548.7798296056149,
+      "height": 55.90448528713796,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 557514144,
+      "version": 749,
+      "versionNonce": 669394336,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685707204081,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          114.13832412790453,
+          -55.90448528713682
+        ],
+        [
+          548.7798296056149,
+          1.1368683772161603e-12
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "IJxg9AzCrbb14qA1nBESQ",
+        "focus": 0.7164162719037304,
+        "gap": 6.9880606608912785
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "IJxg9AzCrbb14qA1nBESQ",
+      "type": "text",
+      "x": 3613.7780298430193,
+      "y": 1052.6447436442468,
+      "width": 439.91949462890625,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 708518304,
+      "version": 522,
+      "versionNonce": 1042438560,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "JUH0j1MGKZyh4fTPJz-gV",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685707204039,
+      "link": null,
+      "locked": false,
+      "text": "    What digits can be put on `id`-th place?\n    - depends on `small_taken`",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 43,
+      "containerId": null,
+      "originalText": "    What digits can be put on `id`-th place?\n    - depends on `small_taken`",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "h4rl0oc0_Rmw00E5oU_GU",
+      "type": "arrow",
+      "x": 3489.1576147237784,
+      "y": 917.5422375336659,
+      "width": 267.87565866753084,
+      "height": 9.136437040349733,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1062236576,
+      "version": 96,
+      "versionNonce": 1317461408,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685707246374,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          267.87565866753084,
+          -9.136437040349733
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "4AHtObs6YaoPn9CvWyFZ4",
+        "focus": 0.25970012228513656,
+        "gap": 3.4940303304458666
+      },
+      "startArrowhead": null,
+      "endArrowhead": "triangle"
+    },
+    {
+      "id": "4AHtObs6YaoPn9CvWyFZ4",
+      "type": "text",
+      "x": 3760.527303721755,
+      "y": 875.6138735683134,
+      "width": 389.0395812988281,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1920396704,
+      "version": 141,
+      "versionNonce": 1746357344,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "h4rl0oc0_Rmw00E5oU_GU",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1685707248955,
+      "link": null,
+      "locked": false,
+      "text": "once the whole sequence is complete,\nwe check whether the required condition\nis met?",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 68,
+      "containerId": null,
+      "originalText": "once the whole sequence is complete,\nwe check whether the required condition\nis met?",
+      "lineHeight": 1.25
+    },
+    {
+      "type": "rectangle",
+      "version": 159,
+      "versionNonce": 1955882080,
+      "isDeleted": false,
+      "id": "ytzOHMaq6LcfmBgYaMWmY",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 3300.519782479577,
+      "y": 1748.2195291795745,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 666,
+      "height": 85,
+      "seed": 49775712,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "id": "haEdj0mq9RCvpZntAhDmN",
+          "type": "text"
+        }
+      ],
+      "updated": 1685707333452,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 273,
+      "versionNonce": 412783008,
+      "isDeleted": false,
+      "id": "haEdj0mq9RCvpZntAhDmN",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 3336.9100412686394,
+      "y": 1765.7195291795745,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 593.219482421875,
+      "height": 50,
+      "seed": 1447557216,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1685707333452,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "https://codeforces.com/contest/1036/problem/C\nhttps://codeforces.com/contest/1036/submission/208160930",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "ytzOHMaq6LcfmBgYaMWmY",
+      "originalText": "https://codeforces.com/contest/1036/problem/C\nhttps://codeforces.com/contest/1036/submission/208160930",
+      "lineHeight": 1.25,
+      "baseline": 43
+    },
+    {
+      "id": "Sp6sZv8V7oTykphQtD2gP",
+      "type": "text",
+      "x": 3509.5841583198517,
+      "y": 1596.5724578297663,
+      "width": 244.4970245361328,
+      "height": 70,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 1733217376,
+      "version": 163,
+      "versionNonce": 1741901920,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685707353535,
+      "link": null,
+      "locked": false,
+      "text": "Practice Problems\nwith explanations",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 60,
+      "containerId": null,
+      "originalText": "Practice Problems\nwith explanations",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "iq-lL03JojSM-i2VFtBQn",
+      "type": "rectangle",
+      "x": 3224.2545167815815,
+      "y": 1893.37038438666,
+      "width": 823,
+      "height": 58,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1769835616,
+      "version": 66,
+      "versionNonce": 668033440,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "VFENj8BGDrWb8Q3L23-Bu",
+          "type": "text"
+        }
+      ],
+      "updated": 1685707690641,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "VFENj8BGDrWb8Q3L23-Bu",
+      "type": "text",
+      "x": 3294.1648561370503,
+      "y": 1909.87038438666,
+      "width": 683.1793212890625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 210545760,
+      "version": 115,
+      "versionNonce": 27723872,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1685707690641,
+      "link": null,
+      "locked": false,
+      "text": "https://www.hackerrank.com/contests/pasc-dp/challenges/digital-parity",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "iq-lL03JojSM-i2VFtBQn",
+      "originalText": "https://www.hackerrank.com/contests/pasc-dp/challenges/digital-parity",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
