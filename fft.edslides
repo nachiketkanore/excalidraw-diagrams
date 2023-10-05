@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0.1691686211006762",
+    "elements": [
+      {
+        "type": "text",
+        "version": 41,
+        "versionNonce": 524055567,
+        "isDeleted": false,
+        "id": "e2JfxGzsBdSYtJ831QGAC",
+        "fillStyle": "hachure",
+        "strokeWidth": 1,
+        "strokeStyle": "solid",
+        "roughness": 1,
+        "opacity": 100,
+        "angle": 0,
+        "x": 513,
+        "y": -235,
+        "strokeColor": "#000000",
+        "backgroundColor": "transparent",
+        "width": 664,
+        "height": 270,
+        "seed": 906518049,
+        "groupIds": [],
+        "fontSize": 36,
+        "fontFamily": 1,
+        "text": "What is the FFT algorithm used for?\n\n-> Multiply 2 polynomials of order N \nin O(NlogN)\n\nExample:",
+        "baseline": 257,
+        "textAlign": "center",
+        "verticalAlign": "top"
+      },
+      {
+        "id": "jU5TLIbGJNfF4YJrDWixx",
+        "type": "rectangle",
+        "x": 566,
+        "y": -380,
+        "width": 531,
+        "height": 74,
+        "angle": 0,
+        "strokeColor": "#000000",
+        "backgroundColor": "transparent",
+        "fillStyle": "hachure",
+        "strokeWidth": 1,
+        "strokeStyle": "solid",
+        "roughness": 1,
+        "opacity": 100,
+        "groupIds": [
+          "MJwjtZrX76h9PrIU0LWHk"
+        ],
+        "seed": 181475887,
+        "version": 88,
+        "versionNonce": 1198705455,
+        "isDeleted": false
+      },
+      {
+        "id": "Ae9A5Esoiaf-zOEb4IJAb",
+        "type": "text",
+        "x": 597,
+        "y": -364.5,
+        "width": 481,
+        "height": 45,
+        "angle": 0,
+        "strokeColor": "#000000",
+        "backgroundColor": "transparent",
+        "fillStyle": "hachure",
+        "strokeWidth": 1,
+        "strokeStyle": "solid",
+        "roughness": 1,
+        "opacity": 100,
+        "groupIds": [
+          "MJwjtZrX76h9PrIU0LWHk"
+        ],
+        "seed": 166850177,
+        "version": 120,
+        "versionNonce": 911606593,
+        "isDeleted": false,
+        "text": "FFT - Black Box Algorithm",
+        "fontSize": 36,
+        "fontFamily": 1,
+        "textAlign": "center",
+        "verticalAlign": "top",
+        "baseline": 32
+      }
+    ]
+  },
+  {
+    "id": "0.8758432008213339",
+    "elements": []
+  }
+]
